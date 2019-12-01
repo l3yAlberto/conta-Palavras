@@ -2,5 +2,5 @@
 Servidor
 ./contaPalavras.sh -a <arquivo> -q <Quantidade de Máquinas>
 
-Cliente
+Cliente\n
 ./contaPalavras.sh -c <Ip do Servidor>
