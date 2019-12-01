@@ -1,6 +1,6 @@
 # conta-Palavras
 Servidor
-./contaPalavras.sh -a\ \<arquivo\> -q <Quantidade de Máquinas>
+./contaPalavras.sh -a \<arquivo\> -q \<Quantidade de Máquinas\>
 
 Cliente
-./contaPalavras.sh -c <Ip do Servidor>
+./contaPalavras.sh -c \<Ip do Servidor\>
